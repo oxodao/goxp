@@ -10,6 +10,8 @@ $ docker pull ghcr.io/oxodao/goxp:1.24.4
 
 ## Usage
 
+### Building yourself
+
 ```sh
 $ make build # Build the docker image
 $ make build-test-app
